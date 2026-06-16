@@ -108,7 +108,7 @@
       'hero.btnProfile': '查看 Instagram 主页',
       'hero.float1': '生活方式',
       'hero.float2': '趣味内容',
-      'hero.float3': '数字闺蜜',
+      'hero.float3': '电子闺蜜',
       'about.label': 'About Us',
       'about.titlePrefix': '我们是',
       'about.desc': 'Digital Bestie 风格的内容创作者，喜欢在社交媒体上与朋友分享有趣的故事、生活方式和好物',
